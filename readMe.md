@@ -1,9 +1,8 @@
 # MicrotaskJs
 ## microtaskJs enable you to use microtask-queu in node js .
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/Arjun059/MicrotaskJs)
 
 Microtask js add your promise in microtask-queu. this Lib Execute your  promise concurrently manner.
 more better way to use promise with then method. Fast Code Better Performace. 
