@@ -1,11 +1,16 @@
 {
   "name": "microtaskjs",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Arjun059/MicrotaskJs"
+  },
+  "keywords": ["microtaskjs", "microtask-quie","nodejs", "javascript promise"],
   "author": "arjun",
   "license": "MIT"
 }
